@@ -1,12 +1,12 @@
 .landing-page-main {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 #title-card {
-  background-image: url("./public/assets/background.jpg");
+  background-image: url("./public/assets/PC\ \(16\).jpg");
   background-size: cover;
   background-position: center;
   height: 100%;
-  width: 100%;
+  width: 40%;
 }
